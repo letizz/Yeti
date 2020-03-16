@@ -2,7 +2,7 @@
 $is_auth = rand(0, 1);
 
 $user_name = 'Letiz'; // укажите здесь ваше имя
-/*$categories_list = [
+$categories_list = [
     'boards' => 'Доски и лыжи',
     'attachment' => 'Крепления',
     'boots' => 'Ботинки',
@@ -49,7 +49,7 @@ $announcements_list = [
         'price' => 5400,
         'picture' => 'img/lot-6.jpg'
     ]
-];*/
+];
 ?>
 <!DOCTYPE html>
 <html lang="ru">
