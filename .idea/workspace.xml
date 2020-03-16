@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="786a9ee6-e029-4714-860f-79dd819e0a3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +60,7 @@
       <workItem from="1584291145182" duration="111000" />
       <workItem from="1584333350088" duration="795000" />
       <workItem from="1584341820407" duration="276000" />
-      <workItem from="1584342107860" duration="1629000" />
+      <workItem from="1584342107860" duration="5675000" />
     </task>
     <servers />
   </component>
@@ -80,11 +81,11 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="163" key="SettingsEditor" timestamp="1584342729672">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2381" y="163" key="SettingsEditor" timestamp="1584349163347">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584342729672" />
-    <state x="2381" y="163" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584342558187" />
+    <state x="2381" y="163" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584349163347" />
     <state x="0" y="690" key="com.intellij.ide.util.TipDialog" timestamp="1584342117396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
